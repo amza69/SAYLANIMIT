@@ -8,7 +8,7 @@ import {
 } from "@chakra-ui/react";
 import React from "react";
 import { AiOutlinePlus } from "react-icons/ai";
-import UseAddDetails from "../src/customHook/UseAddDetails";
+import UseAddDetails from "@/src/customHook/UseAddDetails";
 import { EditIcon } from "@chakra-ui/icons";
 import { HashLoader } from "react-spinners";
 
